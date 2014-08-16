@@ -1,0 +1,11 @@
+# Intellij project files
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/tasks.xmlplatforms
+.idea/copyright
+.idea/scopes/scope_settings.xml
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/dictionaries
+.idea/uiDesigner.xml
+

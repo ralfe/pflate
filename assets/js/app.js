@@ -21,6 +21,21 @@
             "description": "60x30, 60x30, 30x30 \n45x15",
             "first": ["a_1", "a_1", "a_2"],
             "second": ["b_1"]
+        },
+        pattern4: {
+            "description": "60x30 \n45x15, 30x15",
+            "first": ["a_1"],
+            "second": ["b_1", "b_2"]
+        },
+        pattern5: {
+            "description": "60x30 \n30x15, 45x15...",
+            "first": ["a_1"],
+            "second": ["b_2", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1", "b_1"]
+        }  ,
+        pattern6: {
+            "description": "60x30, 60x30, 30x30 \n30x15, 45x15, 45x15, 45x15",
+            "first": ["a_1", "a_1", "a_2"],
+            "second": ["b_2", "b_1", "b_1", "b_1"]
         }
     }
 
